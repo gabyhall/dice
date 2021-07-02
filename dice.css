@@ -71,6 +71,7 @@ body {
 
 #win {
     display: none;
+    height: 500px;
 }
 
 .btn-style {
